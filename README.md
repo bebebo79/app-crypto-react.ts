@@ -1,3 +1,24 @@
+Proyecto app de comprobar cotizacion de Cryptomonedas
+REACT TS, usando Zod y Zustand
+
+Pagina Princial ( Formulario conectado con una Api para poder seleccionar al menos 20 criptomenedas
+![pantalla-principal](https://github.com/user-attachments/assets/5ccca2a6-c7c6-4b4e-8d5c-2da8e70fb25d)
+
+Resultado de consultar la api para traernos los datos que hemos querido mostrar
+
+![cotizacion](https://github.com/user-attachments/assets/d031d83b-c1b5-4f89-95e7-f6624f97b0a1)
+
+
+
+
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
